@@ -1,0 +1,101 @@
+
+#header {
+    background-color:rgb(53, 183, 234);
+      padding: 5px;
+      position: relative;
+  }
+  
+  #header h1{
+      text-transform: uppercase;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-size: 100%;
+      letter-spacing: 10px;
+      color:yellow;
+      text-align: center;
+      position: absolute;
+        left: 500px;
+       top: 25px;
+      
+  }
+  #header img {
+      width: 100px;
+      height: 100px;
+      padding: 10px;
+      padding-left: 380px;
+      display: block;
+       background-color:rgb(53, 183, 234);
+      
+  }
+  #navlinks{
+    background-color:rgba(4, 66, 99, 0.839);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-inline-start: 170px;
+    padding-inline-end: 50px;
+   
+    
+  }
+  #navlinks a{
+    
+    text-decoration: none;
+    color: aliceblue;
+    text-decoration: border;
+    background-color: rgb(158, 105, 7);
+    padding-left: 50px;
+    padding-right:50px ;
+    
+  }
+   #navlinks a:hover {
+    background-color: white;
+    color: rgba(164, 209, 16, 0.94);
+  }
+  #pic{
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+  
+  }
+  #pic img{
+  
+    height: 300px;
+    width: 520px;
+    padding-left: 350px;
+    padding-right: 200px;
+    background-color: white;
+  }
+  #pic h3{
+    padding-left: 350px;
+    padding-right: 350px;
+  }
+  
+  #pic p{
+    padding-left: 350px;
+    padding-right: 350px;
+    color: black;
+  }
+  #pic{
+    color: rgb(8, 166, 229);
+  }
+  #pic table{
+    
+    padding-left: 350px;
+   
+    
+  }
+  
+  #pic th {
+    padding-left: 40px;
+    padding-right: 100px;
+  }
+  #pic a{
+          color: orange;
+    }
+    #pic a:hover{
+      color:rgb(53, 183, 234);
+    }
+    
+  
+  #foot{
+    padding-left: 450px;
+    padding-right: 350px;
+  }
